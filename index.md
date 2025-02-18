@@ -4,5 +4,5 @@
 ---
 
 <p>index</p>
-<p><a href="New">new</a></p>
+<p><a href="New">New</a></p>
 
